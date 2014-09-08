@@ -1,68 +1,68 @@
-[    
-    {
-        "remote": "cm",
-        "repository": "android_device_qcom_common",
-        "target_path": "device/qcom/common",
-        "revision": "cm-11.0"
-    },
-    {
-        "remote": "gh",
-        "repository": "Y300-0100/android_device_huawei_msm7x27a-common",
-        "target_path": "device/huawei/msm7x27a-common",
-        "revision": "cm-11.0"
-    },
-    {
-        "remote": "gh",
-        "repository": "Y300-0100/android_device_huawei_u8833",
-        "target_path": "device/huawei/u8833",
-        "revision": "cm-11.0"
-    },
-    {
-        "remote": "gh",
-        "repository": "Dazzozo/huawei-kernel-3.4",
-        "target_path": "kernel/huawei/huawei-kernel-3.4",
-        "revision": "kitkat"
-    },
-    {
-        "remote": "gh",
-        "repository": "Y300-0100/proprietary_vendor_huawei",
-        "target_path": "vendor/huawei",
-        "revision": "kitkat"
-    },
-    {
-        "remote": "gh",
-        "repository": "Dazzozo/android_hardware_atheros_wifi_ath6kl-huawei",
-        "target_path": "hardware/atheros/wifi/ath6kl-huawei",
-        "revision": "master"
-    },
-    {
-        "remote": "gh",
-        "repository": "legaCyMod/android_hardware_atheros_wlan",
-        "target_path": "hardware/atheros/wlan",
-        "revision": "cm-11.0"
-    },  
-    {
-        "remote": "gh",
-        "repository": "Dazzozo/android_external_webkit",
-        "target_path": "external/webkit",
-        "revision": "kitkat"
-    },
-    {
-        "remote": "gh",
-        "repository": "Dazzozo/android_hardware_qcom_display-legacy",
-        "target_path": "hardware/qcom/display-legacy",
-        "revision": "jellybean-mr2"
-    },
-    {
-        "remote": "gh",
-        "repository": "Dazzozo/android_hardware_qcom_media-legacy",
-        "target_path": "hardware/qcom/media-legacy",
-        "revision": "kitkat"
-    },    
-    {
-        "remote": "cm",
-        "repository": "android_hardware_qcom_fm",
-        "target_path": "hardware/qcom/fm",
-        "revision": "cm-11.0"
-    }    
+[
+{
+ "remote": "cm",
+ "repository": "android_device_qcom_common",
+ "target_path": "device/qcom/common",
+ "revision": "cm-11.0"
+},
+{
+ "remote": "lsd",
+ "repository": "android_device_huawei_msm7x27a-common",
+ "target_path": "device/huawei/msm7x27a-common",
+ "revision": "kitkat"
+},
+{
+ "remote": "lsd",
+ "repository": "android_device_huawei_u8833",
+ "target_path": "device/huawei/u8833",
+ "revision": "kitkat"
+},
+{
+ "remote": "gh",
+ "repository": "Dazzozo/huawei-kernel-3.4",
+ "target_path": "kernel/huawei/huawei-kernel-3.4",
+ "revision": "kitkat"
+},
+{
+ "remote": "ls",
+ "repository": "proprietary_vendor_huawei",
+ "target_path": "vendor/huawei",
+ "revision": "kitkat"
+},
+{
+ "remote": "gh",
+ "repository": "Dazzozo/android_hardware_atheros_wifi_ath6kl-huawei",
+ "target_path": "hardware/atheros/wifi/ath6kl-huawei",
+ "revision": "master"
+},
+{
+ "remote": "gh",
+ "repository": "legaCyMod/android_hardware_atheros_wlan",
+ "target_path": "hardware/atheros/wlan",
+ "revision": "cm-11.0"
+},  
+{
+ "remote": "gh",
+ "repository": "Dazzozo/android_external_webkit",
+ "target_path": "external/webkit",
+ "revision": "kitkat"
+},
+{
+ "remote": "gh",
+ "repository": "Dazzozo/android_hardware_qcom_display-legacy",
+ "target_path": "hardware/qcom/display-legacy",
+ "revision": "jellybean-mr2"
+},
+{
+ "remote": "gh",
+ "repository": "Dazzozo/android_hardware_qcom_media-legacy",
+ "target_path": "hardware/qcom/media-legacy",
+ "revision": "kitkat"
+},
+{
+ "remote": "cm",
+ "repository": "android_hardware_qcom_fm",
+ "target_path": "hardware/qcom/fm",
+ "revision": "cm-11.0"
+}
 ]
